@@ -1,4 +1,4 @@
-# Modelos de Classificação
+# Modelos de Cluster
 
 Este repositório mostra exemplos dos modelos de cluster:
 - DBScan
